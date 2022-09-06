@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container-fluid {
+  margin: 50px 0 0 0;
+  padding: 40px 20px;
+  background-color: rgb(188, 99, 235);
+  color: white;
+  line-height: 1.5;
+}
+
+.container-fluid h1 {
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 10px;
+}
